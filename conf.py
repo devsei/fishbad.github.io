@@ -1404,3 +1404,11 @@ GLOBAL_CONTEXT = {}
 # GLOBAL_CONTEXT as parameter when the template is about to be
 # rendered
 GLOBAL_CONTEXT_FILLER = []
+
+# From Chen Bin gist.github.com/redguardtoo/d6ded55e050343b4629b
+
+COMPILERS["orgmode"] = ('.org',)
+
+# Add org files to your POSTS, PAGES
+POSTS = POSTS + (("posts/*.org", "posts", "post.tmpl"),)
+PAGES = PAGES + (("stories/*.org", "posts", "post.tmpl"),)
