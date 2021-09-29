@@ -15,11 +15,15 @@
  </url>
  <url>
   <loc>https://fishbad.github.io/archive.html</loc>
-  <lastmod>2021-09-29T04:44:00Z</lastmod>
+  <lastmod>2021-09-29T08:08:00Z</lastmod>
  </url>
  <url>
   <loc>https://fishbad.github.io/categories/</loc>
-  <lastmod>2021-09-29T03:27:00Z</lastmod>
+  <lastmod>2021-09-29T08:08:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://fishbad.github.io/categories/story/</loc>
+  <lastmod>2021-09-29T08:08:00Z</lastmod>
  </url>
  <url>
   <loc>https://fishbad.github.io/galleries/</loc>
@@ -36,5 +40,9 @@
  <url>
   <loc>https://fishbad.github.io/posts/test_post/</loc>
   <lastmod>2021-09-29T03:37:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://fishbad.github.io/posts/the-storms/</loc>
+  <lastmod>2021-09-29T08:08:00Z</lastmod>
  </url>
 </urlset>
