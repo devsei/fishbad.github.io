@@ -2,7 +2,7 @@
 .. title: org
 .. slug: org
 .. date: 2021-09-29 12:43:27 UTC+08:00
-.. tags: 
+.. tags: test
 .. category: 
 .. link: 
 .. description: 
