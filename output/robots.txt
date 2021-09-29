@@ -1,0 +1,4 @@
+Sitemap: https://fishbad.github.io/sitemapindex.xml
+
+User-Agent: *
+Host: fishbad.github.io
